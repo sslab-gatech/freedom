@@ -1,7 +1,7 @@
 # FreeDom
 
 ## Paper
-FREEDOM: Engineering a State-of-the-Art DOM Fuzzer (ACM CSS 2020)
+FREEDOM: Engineering a State-of-the-Art DOM Fuzzer (to appear) (ACM CSS 2020)
 
 ```
 @inproceedings{xu:freedom,
