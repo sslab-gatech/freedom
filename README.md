@@ -1,7 +1,7 @@
 # FreeDom
 
 ## Paper
-FREEDOM: Engineering a State-of-the-Art DOM Fuzzer (to appear) (ACM CSS 2020)
+[FREEDOM: Engineering a State-of-the-Art DOM Fuzzer (ACM CSS 2020)](https://gts3.org/assets/papers/2020/xu:freedom.pdf)
 
 ## Prerequisites
 - Python 3.x
