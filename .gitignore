@@ -1,2 +1,4 @@
 # Testcase output location
 output/
+
+*.pyc
